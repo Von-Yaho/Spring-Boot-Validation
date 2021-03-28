@@ -1,0 +1,10 @@
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\io\repositories\UserRepository.java
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\exception\UniqueEmailValidator.java
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\ValidationApplication.java
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\services\UserService.java
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\ui\controllers\UserController.java
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\exception\ErrorAdvice.java
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\exception\UniqueEmail.java
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\io\entities\User.java
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\swagger\SwaggerConfig.java
+C:\Users\yaho\IdeaProjects\Spring-Boot-Validation\src\main\java\com\exxeta\validation\exception\ApiError.java
